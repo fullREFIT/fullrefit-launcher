@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#121010" />
+  <meta name="description" content="Every deployed full/REFIT web app in one place." />
+  <link rel="manifest" href="manifest-hermes_090526.webmanifest" />
+  <link rel="stylesheet" href="styles-hermes_090526.css" />
+  <title>full/REFIT Launcher</title>
+</head>
+<body>
+  <header class="masthead">
+    <div class="eyebrow">FULL/REFIT / DEPLOYED APPS</div>
+    <div class="masthead-row">
+      <div>
+        <h1>One place to open the work.</h1>
+        <p class="lede">A live inventory of the web apps deployed from the fullrefit account.</p>
+      </div>
+      <div class="count-block" aria-label="App count"><span id="count">0</span><small>APPS</small></div>
+    </div>
+  </header>
+  <main>
+    <section class="controls" aria-label="Launcher controls">
+      <label class="search-label" for="search">Find an app</label>
+      <input id="search" type="search" placeholder="Search by name or description" autocomplete="off" />
+      <div class="filters" role="group" aria-label="Filter apps">
+        <button class="filter active" data-filter="all" type="button">All</button>
+        <button class="filter" data-filter="active" type="button">Active</button>
+        <button class="filter" data-filter="archive" type="button">Archived</button>
+      </div>
+    </section>
+    <section id="grid" class="app-grid" aria-live="polite" aria-busy="true"></section>
+    <p id="empty" class="empty" hidden>No apps match that search.</p>
+  </main>
+  <footer><span>Source: Vercel account audit</span><span id="generated"></span></footer>
+  <script src="launcher-hermes_090526.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,806 @@
+{
+  "generatedAt": "2026-09-05T16:47:57.602146+00:00",
+  "source": "Vercel projects API, enriched by Airtable base appymVGLv7bt0cNhY table tblH8Ib9amC9uQyaI",
+  "apps": [
+    {
+      "name": "markdown-reader-pwa",
+      "projectId": "prj_exjxTPIpu4zK0ZpRmcJyPsz1r31L",
+      "url": "https://markdown-reader-pwa.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "ERROR",
+      "framework": "vite",
+      "description": "App for Update Vercel favicon to full/REFIT brand icon.",
+      "repo": "fullREFIT/markdown-reader"
+    },
+    {
+      "name": "markdown-reader",
+      "projectId": "prj_NSC7FclZwqlQz8n0lGsdOHONst2Q",
+      "url": "https://markdown-reader-psi.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "vite",
+      "description": "A focused reader for formatted markdown plans and operating briefs.",
+      "repo": "fullREFIT/markdown-reader"
+    },
+    {
+      "name": "ai-architects-roundtable-call-recaps",
+      "projectId": "prj_RC92bu2oCNSruRoOXSCByfun2UiX",
+      "url": "https://ai-architects-roundtable-call-recap.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "AI Architects - Roundtable Call Recaps.",
+      "repo": "fullREFIT/roundtable-recap-app"
+    },
+    {
+      "name": "eleanor-hq-fullrefit",
+      "projectId": "prj_jgKUixExLyZsbeVWX4x62jIIHHmm",
+      "url": "https://eleanor-hq-fullrefit.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "Eleanor, Client Headquarters",
+      "repo": ""
+    },
+    {
+      "name": "eleanor-l-deck-fullrefit",
+      "projectId": "prj_MzQA9QtQ5rA9ilm3OEV0GAyh9dSb",
+      "url": "https://eleanor-l-deck-fullrefit.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "full/REFIT Presentation",
+      "repo": ""
+    },
+    {
+      "name": "fullrefit-site",
+      "projectId": "prj_7R7K60U3uNUaLt0u0Q8VrWR1U5uA",
+      "url": "https://www.fullrefit.com",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "full/REFIT, Fractional AI & automation partner for companies that have outgrown their startup systems. Systems built. Teams equipped.",
+      "repo": "fullREFIT/fullrefit-site"
+    },
+    {
+      "name": "barry-l-deck-fullrefit",
+      "projectId": "prj_nE211zJIugZmuocsXxnMO6J5sLxH",
+      "url": "https://barry-l-deck-fullrefit.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "full/REFIT Presentation",
+      "repo": ""
+    },
+    {
+      "name": "barry-hq-fullrefit",
+      "projectId": "prj_UcknqGIRMXtP0gljVPeKOWDUjcEd",
+      "url": "https://barry-hq-fullrefit.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "Barry Lenson, Client Headquarters",
+      "repo": ""
+    },
+    {
+      "name": "greg-hq-fullrefit-deploy",
+      "projectId": "prj_EomOVo1QpufsZKvYZSIm81b9Ency",
+      "url": "https://greg-hq-fullrefit-deploy.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "Greg Johnson, Client Headquarters",
+      "repo": ""
+    },
+    {
+      "name": "skills-quickref",
+      "projectId": "prj_Dw200xzpHP0vBNUNdNtaAtBPGW4C",
+      "url": "https://skills-quickref.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "full/REFIT \u2014 Skill Quick-Reference.",
+      "repo": "fullREFIT/skills-quickref"
+    },
+    {
+      "name": "fullrefit-content-calendar",
+      "projectId": "prj_DcAltBiKDX0QsoH11LXmyaiOzDg4",
+      "url": "https://fullrefit-content-calendar.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "App for Update Vercel favicon to full/REFIT brand icon.",
+      "repo": "fullREFIT/fullrefit-content-calendar"
+    },
+    {
+      "name": "cueboard-project",
+      "projectId": "prj_LoZg6xdTKc45nlPyLAyYBXnFC4jV",
+      "url": "https://cueboard-project.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "Cueboard",
+      "repo": ""
+    },
+    {
+      "name": "fullrefit-presentation-deck-builder",
+      "projectId": "prj_iSYATFunXYnxqSQI8w6avUsIjnZe",
+      "url": "https://fullrefit-presentation-deck-builder.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "vite",
+      "description": "Build validated, branded presentation websites with four presets or your own visual system.",
+      "repo": "fullREFIT/skills"
+    },
+    {
+      "name": "activepieces-fullrefit",
+      "projectId": "prj_ldAxuvEma9WCeb7AEfKWHyyDVyh4",
+      "url": "https://activepieces-fullrefit.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "Activepieces Full Refit",
+      "repo": ""
+    },
+    {
+      "name": "browser-automation-faq",
+      "projectId": "prj_5bYJBvM0CmhxaP5ZrBFCZSqnS0N6",
+      "url": "https://web-seven-kappa-93.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "Browser Automation &amp; Computer-Use Guide",
+      "repo": ""
+    },
+    {
+      "name": "t15-identity-boundary-runbook",
+      "projectId": "prj_qtmjYyEZHSqm6j1TB4lYj24W8jm4",
+      "url": "https://t15-identity-boundary-runbook.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "T15 \u2014 Human session boundary: authorization",
+      "repo": ""
+    },
+    {
+      "name": "paulchambers-co",
+      "projectId": "prj_2RHCzzJcQhU1iABTVwqiALIUEx7p",
+      "url": "https://paulchambers.co",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "I build AI systems for companies that have outgrown their informal processes. Portfolio of shipped products and systems including voice-first apps, AI resume tools, sales call automation, knowledge bases, and AI infrastructure.",
+      "repo": "fullREFIT/paulchambers-co"
+    },
+    {
+      "name": "paulchambers-me",
+      "projectId": "prj_CMwj8uemFsVwlPfP9q6gu8RMmVJ6",
+      "url": "https://paulchambers-me.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "nextjs",
+      "description": "I build AI systems for companies that have outgrown their informal processes. Portfolio of shipped products including voice-first apps, AI resume tools, sales call automation, and browser extensions.",
+      "repo": "fullREFIT/paulchambers-me"
+    },
+    {
+      "name": "fullrefit-skill-atlas",
+      "projectId": "prj_PqzkP9mkUGDjH8kiEBnYXRBawVLn",
+      "url": "https://fullrefit-skill-atlas.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "full/REFIT \u2014 Skill Atlas v2.4.",
+      "repo": ""
+    },
+    {
+      "name": "donemeans-pilot-guide",
+      "projectId": "prj_euc8YWJgqQUSD17WVmUz9OZHekGj",
+      "url": "https://donemeans-pilot-guide.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "Done Means | Seven-Day Pilot",
+      "repo": ""
+    },
+    {
+      "name": "isaiah-web-app-guide",
+      "projectId": "prj_mlAC3xY4gp5xg3lHOSTP4cGcnZbL",
+      "url": "https://isaiah-web-app-guide.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "Build Your First Website With AI \u2014 A Guide for Isaiah",
+      "repo": ""
+    },
+    {
+      "name": "done-means-guide",
+      "projectId": "prj_SkG1Ot29eainyafqlYALCQI4i7Yi",
+      "url": "https://done-means-guide.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "Done Means | full/REFIT",
+      "repo": ""
+    },
+    {
+      "name": "site",
+      "projectId": "prj_MLM5ktZAuMiPFCIu3zPR35Jgtrdw",
+      "url": "https://site-two-flame-52.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "Done Means | full/REFIT",
+      "repo": ""
+    },
+    {
+      "name": "presentation-website-builder-cc",
+      "projectId": "prj_6Jng5agtm08GkaEOGiHwjPlEszuJ",
+      "url": "https://presentation-website-builder-cc.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "vite",
+      "description": "A reusable full/REFIT presentation website generated from structured report JSON.",
+      "repo": "fullREFIT/fullrefit-presentation-website-builder-cc"
+    },
+    {
+      "name": "open-brain-journey",
+      "projectId": "prj_3OCvgOox8nBmzsmQwe1hBHvMNyLN",
+      "url": "https://open-brain-journey.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "My Open Brain Journey \u2014 From Basic Install to Full Knowledge Graph.",
+      "repo": ""
+    },
+    {
+      "name": "prospect-execution-runbook",
+      "projectId": "prj_I7WDagp9KIEfYGQQdGMF2LtgfUIt",
+      "url": "https://prospect-execution-runbook.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "Prospect Execution Console",
+      "repo": ""
+    },
+    {
+      "name": "demo-fullrefit",
+      "projectId": "prj_61obGXj3w7uYBvmxvntgAdt5AmHc",
+      "url": "https://demo.fullrefit.co",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "AC Repair & Heating in Van Nuys | Cool &amp; Heat Air Conditioning",
+      "repo": ""
+    },
+    {
+      "name": "web-build-system",
+      "projectId": "prj_VW9A8uuoVNqgSgpRSyWSthuLQY18",
+      "url": "https://web-build-system.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "Web Build System Guide",
+      "repo": ""
+    },
+    {
+      "name": "fullrefit-call-sheet",
+      "projectId": "prj_NvX6LMHoqPhVC9HpoqoDZAbjRxl0",
+      "url": "https://fullrefit-call-sheet.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "full/REFIT Call Sheet",
+      "repo": ""
+    },
+    {
+      "name": "stretchless",
+      "projectId": "prj_iGVglYZsQrbNXV8GyF4v5BZJvfh0",
+      "url": "https://stretchmore.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "vite",
+      "description": "App for stretchless.",
+      "repo": ""
+    },
+    {
+      "name": "revenue-action-stack-runbook",
+      "projectId": "prj_hfK3lVotGTaL70zlJRlun6SXiZ2t",
+      "url": "https://revenue-action-stack-runbook.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "The exact daily full/REFIT revenue actions: money events, Upwork, Apollo-supported outreach, public-demand replies, content, and closeout.",
+      "repo": "fullREFIT/revenue-action-stack-runbook"
+    },
+    {
+      "name": "support-bot",
+      "projectId": "prj_vJGbqmcXxE8RrRKSJy5JurCYyTvt",
+      "url": "https://support-bot.fullrefit.com",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "nextjs",
+      "description": "Generated by create next app",
+      "repo": "fullREFIT/support-bot"
+    },
+    {
+      "name": "ij-job-tracker",
+      "projectId": "prj_oh3chPZQ9IbLmMUKXfotwxeWZmWc",
+      "url": "https://ij-job-tracker.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "Job Search Tracker.",
+      "repo": "fullREFIT/isaiah-job-tracker"
+    },
+    {
+      "name": "ats-resume-advisor-v2",
+      "projectId": "prj_e49KxnFtmJVB7C3FdRODkQyN11mg",
+      "url": "https://resumeverdict.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "nextjs",
+      "description": "Diagnose your resume against any job description. Get an honest score, understand exactly why you're ranked low, and download an ATS-safe tailored resume. No account. No fabrication. Free.",
+      "repo": "fullREFIT/ATS-resume-advisor-v2"
+    },
+    {
+      "name": "fullrefit-skillquiver-build-path",
+      "projectId": "prj_T8CoZDXtOEc2Abr4izNsiTYMFQgB",
+      "url": "https://fullrefit-skillquiver-build-path.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "skillquiver.dev.",
+      "repo": ""
+    },
+    {
+      "name": "automations-agent-runbook",
+      "projectId": "prj_74mLATkrDy7zfHabbxHsJHS6zRpG",
+      "url": "https://automations-agent-runbook.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "Hermes Runbook Hub.",
+      "repo": ""
+    },
+    {
+      "name": "fullrefit-execution-prompt-forge",
+      "projectId": "prj_dNXiD2j5fiZyk4Y9ZIeEAlfHE0W1",
+      "url": "https://fullrefit-execution-prompt-forge.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "A free tool that writes AI instructions in exactly the right length \u2014 not too short, not too long.",
+      "repo": ""
+    },
+    {
+      "name": "matt-alford-toolbox",
+      "projectId": "prj_tfYYPrAATMJHF9GAyL1SDJPTp9l9",
+      "url": "https://matt-alford-toolbox.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "A practical eval and agent workflow toolbox for moving from bug whack-a-mole to production-grade feature slices.",
+      "repo": ""
+    },
+    {
+      "name": "cold-rescue-sprint",
+      "projectId": "prj_sxs7P51f2pkNwZdukXg0psSuRd8C",
+      "url": "https://cold-rescue-sprint.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "Cold Rescue Sprint To-Do List.",
+      "repo": ""
+    },
+    {
+      "name": "upwork-submission-tracker",
+      "projectId": "prj_5o3i8kP6P33h2LsabVRl7qmba4Oc",
+      "url": "https://upwork-submission-tracker.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "Upwork Submission Tracker.",
+      "repo": ""
+    },
+    {
+      "name": "tab-squirrel-web",
+      "projectId": "prj_J0f6x2hHgjMA73I9ATqpTSz8UEEK",
+      "url": "https://app.tabsquirrel.com",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "vite",
+      "description": "TabSquirrel preserves your working context across sessions. Capture notes, set statuses, and organize your browser tabs so you never lose your train of thought.",
+      "repo": "aTempNameJustaSec/TabSquirrel"
+    },
+    {
+      "name": "tab-squirrel-marketing",
+      "projectId": "prj_orSWaLvvpdvodEAJq76XieHhqvA1",
+      "url": "https://tabsquirrel.com",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "vite",
+      "description": "TabSquirrel preserves your working context across sessions so you can safely close tabs without losing momentum.",
+      "repo": "aTempNameJustaSec/TabSquirrel"
+    },
+    {
+      "name": "main-website",
+      "projectId": "prj_JkFnNH1mdrVNMnXTNW6MCY1doFdc",
+      "url": "https://fullrefit-website-claude-code-web26.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "vite",
+      "description": "full/REFIT, Fractional AI & automation partner for companies that have outgrown their startup systems. Systems built. Teams equipped.",
+      "repo": "fullREFIT/fullREFIT-website"
+    },
+    {
+      "name": "popebot",
+      "projectId": "prj_lhdXmgl8BLAW5lINhNHuTmGtIi8V",
+      "url": "https://popebot-fullrefit.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "ERROR",
+      "framework": "nextjs",
+      "description": "App for Update Vercel favicon to full/REFIT brand icon.",
+      "repo": "fullREFIT/popebot"
+    },
+    {
+      "name": "mcdi-runbook",
+      "projectId": "prj_bd7Hm8cmKCGhKlhA2EsvOePGLbWx",
+      "url": "https://mcdi-runbook.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "nextjs",
+      "description": "Daily operating tool for the full/REFIT manual declared-intent revenue sprint.",
+      "repo": "fullREFIT/mcdi-runbook"
+    },
+    {
+      "name": "linkedin-autoposter-runbook",
+      "projectId": "prj_uWtIeU87y19j0X0u3B7Ojzxh1Wsc",
+      "url": "https://linkedin-autoposter-runbook.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "Six-step go-live runbook for the Revenue Content Pipeline LinkedIn autoposter.",
+      "repo": "fullREFIT/linkedin-autoposter-runbook"
+    },
+    {
+      "name": "isaiah-ai-field-guide",
+      "projectId": "prj_jQ9OxPOE8dHIp8jExK70FOJgAOM2",
+      "url": "https://isaiah-ai-field-guide.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "AI-Native Field Guide: 2026 Edition.",
+      "repo": "fullREFIT/isaiah-ai-field-guide"
+    },
+    {
+      "name": "fullrefit-content-review",
+      "projectId": "prj_UcpoTaSkoCtmBpJcgAnCgzPRqmFT",
+      "url": "https://fullrefit-content-review.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "nextjs",
+      "description": "LinkedIn post review and approval queue",
+      "repo": "fullREFIT/fullrefit-content-review"
+    },
+    {
+      "name": "fullrefit-revenue-plan",
+      "projectId": "prj_YZEahPfS525SmFtZ5mo323J28dyI",
+      "url": "https://fullrefit-revenue-plan.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "full/REFIT Five Day Revenue Action Plan.",
+      "repo": "fullREFIT/fullrefit-revenue-plan"
+    },
+    {
+      "name": "contractors-wife",
+      "projectId": "prj_y7qpFyDLcKhj9pYhd4MX7MTTECdW",
+      "url": "https://thecontractorswife.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "nextjs",
+      "description": "A voice-first app for general contractors. Talk while you drive. Shopping, calendar, tasks sort themselves.",
+      "repo": "fullREFIT/contractors-wife"
+    },
+    {
+      "name": "phase-0-launch",
+      "projectId": "prj_CXJj6cCMtChTX4zbSUiqPnredNZy",
+      "url": "https://phase-0-launch.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "The answer sounds right. You still cannot tell if it is. Four weeks, live, twelve seats. Learn to direct AI and verify it yourself.",
+      "repo": "fullREFIT/directing-ai-launch"
+    },
+    {
+      "name": "ats-resume-advisor",
+      "projectId": "prj_XDMJ3AJu0BQNmzsM7VZVAAb6Xw7p",
+      "url": "https://ats-resume-advisor.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "nextjs",
+      "description": "Diagnose your resume against any job description. Honest verdict, no fabrication, ATS-safe tailoring. Free.",
+      "repo": "fullREFIT/ATS-resume-advisor"
+    },
+    {
+      "name": "content-calendar",
+      "projectId": "prj_jCJF7ZTWeE9Azw7JaOVzNdy1KYFN",
+      "url": "https://content-calendar-psi-six.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "App for Update Vercel favicon to full/REFIT brand icon.",
+      "repo": "fullREFIT/content-sprint-calendar"
+    },
+    {
+      "name": "content-sprint-calendar",
+      "projectId": "prj_GBtEgpwvzUQe0HQEANv7sgbtGCLl",
+      "url": "https://calendar.fullrefit.com",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "App for Update Vercel favicon to full/REFIT brand icon.",
+      "repo": "fullREFIT/content-sprint-calendar"
+    },
+    {
+      "name": "practical-prompting",
+      "projectId": "prj_z9W0KBs2Pg58Je6NPMd4YlqRQGNI",
+      "url": "https://practicalprompting.co",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "vite",
+      "description": "Practical Prompting.",
+      "repo": "fullREFIT/practical-prompting"
+    },
+    {
+      "name": "isaiah-hidden-opportunity-packet",
+      "projectId": "prj_Z6PhehqZLBwwnkWmenKMaAn0x2op",
+      "url": "https://isaiah-hidden-opportunity-packet.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "Isaiah Jeannot | Hidden Opportunity Target Map.",
+      "repo": ""
+    },
+    {
+      "name": "community-fullrefit-redirect",
+      "projectId": "prj_Kgvt1u8w0XoIvz5c3IrX6E0qaQS6",
+      "url": "https://community-fullrefit-redirect.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "Where business leaders learn to build AI-driven operations and make their teams capable with tools they've never heard of. Free. No pitch.",
+      "repo": ""
+    },
+    {
+      "name": "website",
+      "projectId": "prj_D6eUddp9Ol7BdhtEuJA0zVSmxVAU",
+      "url": "https://website-alpha-ten-49.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "I build AI systems for companies that have outgrown their informal processes. Portfolio of shipped products including voice-first apps, AI resume tools, sales call automation, and browser extensions.",
+      "repo": ""
+    },
+    {
+      "name": "isaiah-job-search-toolkit",
+      "projectId": "prj_BjEVtJGhcB7YrphEIZMucjSoXygB",
+      "url": "https://isaiah-job-search-toolkit.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "Isaiah Jeannot",
+      "repo": ""
+    },
+    {
+      "name": "job-search-toolkit",
+      "projectId": "prj_QWFRVRR6y8AbDwJhdtA3kw1nD3GT",
+      "url": "https://job-search-toolkit-woad.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "Isaiah Jeannot",
+      "repo": ""
+    },
+    {
+      "name": "fullrefit-behind-the-craft-landing",
+      "projectId": "prj_DKNTudQmE6jbql2SHJmRdIe1k5sX",
+      "url": "https://fullrefit-behind-the-craft-landing.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "Join the full/REFIT Skool community for practical AI workflows, agents, and automation systems for real teams.",
+      "repo": ""
+    },
+    {
+      "name": "user-guide",
+      "projectId": "prj_QK8GcDg4pfHNIcsKGhxVI0Cq3TGA",
+      "url": "https://user-guide-six.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "Content Engine \u2014 Complete User Guide.",
+      "repo": ""
+    },
+    {
+      "name": "open-brain-dashboard-next",
+      "projectId": "prj_76L3ubhO1k1ZgLOkcPDNP2FaZFZB",
+      "url": "https://brain.fullrefit.com",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "nextjs",
+      "description": "full/REFIT Open Brain dashboard",
+      "repo": ""
+    },
+    {
+      "name": "contractors-wife-marketing",
+      "projectId": "prj_jvdL5FUQiE23s88pT8WR5ViUDfKa",
+      "url": "https://contractors-wife-marketing.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "A voice-first app for general contractors. Talk while you drive. Shopping, calendar, tasks sort themselves. Installs on your phone.",
+      "repo": ""
+    },
+    {
+      "name": "project-234sz",
+      "projectId": "prj_AFw5HiCiBO6D9255Qk6L51lpQwgR",
+      "url": "https://project-234sz.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "Diagnostic Tools | full/REFIT.",
+      "repo": ""
+    },
+    {
+      "name": "fullrefit-execution-tracker",
+      "projectId": "prj_eKaK8TQx8uw1luGVgYh9KYc8RUd9",
+      "url": "https://fullrefit-execution-tracker.vercel.app",
+      "status": "ARCHIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "Execution tracker for fullREFIT task orchestration across all active projects.",
+      "repo": ""
+    },
+    {
+      "name": "fullrefit-reality-check",
+      "projectId": "prj_0ksViITFZQAiYDKFGykSbPPDFCdQ",
+      "url": "https://fullrefit-reality-check.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "App for fullrefit reality check.",
+      "repo": ""
+    },
+    {
+      "name": "reality-check-v2-26703",
+      "projectId": "prj_zHXVdGCvTcJbP18IfCmXxZuDAKCW",
+      "url": "https://reality-check-v2-26703.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "AI Reality Check | full/REFIT.",
+      "repo": ""
+    },
+    {
+      "name": "reality-check-deploy-17538",
+      "projectId": "prj_9wwPGK9sPAkk1DQZHkTG4HqIMco4",
+      "url": "https://reality-check-deploy-17538.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "AI Reality Check | full/REFIT.",
+      "repo": ""
+    },
+    {
+      "name": "next-90-days-tracker",
+      "projectId": "prj_F0VQuvwDCVAodkGF5VvXlM4bk9jt",
+      "url": "https://next-90-days-tracker.vercel.app",
+      "status": "ARCHIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "The Next 90 Days \u2014 full/REFIT Revenue Sprint Tracker.",
+      "repo": ""
+    },
+    {
+      "name": "full-refit-initiative-tracker-checklist",
+      "projectId": "prj_UD73aR5dsDuSTQOZYDKBfqzULhsw",
+      "url": "https://full-refit-initiative-tracker-check.vercel.app",
+      "status": "ARCHIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "Revenue Execution System \u2014 full/REFIT.",
+      "repo": ""
+    },
+    {
+      "name": "zoho-nurturing-phase2-scope",
+      "projectId": "prj_s4bKsEiAAefl2goKj0R2F5wTunk2",
+      "url": "https://zoho-nurturing-phase2-scope.vercel.app",
+      "status": "ARCHIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "Zoho Nurturing Campaigns \u2014 Phase 2 Scope.",
+      "repo": ""
+    },
+    {
+      "name": "pp-redirect",
+      "projectId": "prj_JkODSl5Nc7nxYLCZ4ajAuypA0Vi1",
+      "url": "https://pp-redirect.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "Practical Prompting has evolved into full/REFIT \u2014 fractional AI and automation consultancy for growing companies.",
+      "repo": ""
+    },
+    {
+      "name": "fullrefit-codex-website-260222",
+      "projectId": "prj_QkTxZCSVOZaPEBWaugGAHEETJUZA",
+      "url": "https://fullrefit-codex-website-260222.vercel.app",
+      "status": "ARCHIVE",
+      "productionStatus": "READY",
+      "framework": "vite",
+      "description": "full/REFIT builds AI-driven operational systems and equips teams to use them. Fractional AI and automation consultancy for real companies.",
+      "repo": ""
+    },
+    {
+      "name": "tracker-dashboard-deploy",
+      "projectId": "prj_PUs3Co7gcM71NIIeXw4YHG56hm36",
+      "url": "https://tracker-dashboard-deploy.vercel.app",
+      "status": "ARCHIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "Tracker Products \u2014 Automated Follow-Up System Status.",
+      "repo": ""
+    },
+    {
+      "name": "marketing",
+      "projectId": "prj_FyibhGw7Nc8zsCD0fOvJyW1BYFWV",
+      "url": "--",
+      "status": "ACTIVE",
+      "productionStatus": "NO_PRODUCTION_TARGET",
+      "framework": "vite",
+      "description": "App for marketing.",
+      "repo": ""
+    },
+    {
+      "name": "dist",
+      "projectId": "prj_0JmSsU5nDnwkrGIvDMiMjek5laod",
+      "url": "https://dist-gamma-black-94.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "",
+      "description": "TabSquirrel preserves your working context across sessions so you can safely close tabs without losing momentum.",
+      "repo": ""
+    },
+    {
+      "name": "fullrefit-v3",
+      "projectId": "prj_j24wtBYV7TI5OsD8pyhJdCdS92fK",
+      "url": "https://fullrefit-v3.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "vite",
+      "description": "full/REFIT \u2014 Fractional AI & automation partner for companies that have outgrown their startup systems. Systems built. Teams equipped.",
+      "repo": ""
+    },
+    {
+      "name": "fullrefit-deploy",
+      "projectId": "prj_4zU9jAv3ga6kA4cqgualc39Elowr",
+      "url": "https://fullrefit-deploy.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "vite",
+      "description": "full/REFIT \u2014 Fractional AI & automation partner for companies that have outgrown their startup systems. Systems built. Teams equipped.",
+      "repo": ""
+    },
+    {
+      "name": "fullrefit-cinematic",
+      "projectId": "prj_vmSEdPXWQ9Y8X1JqyanckVK4la8d",
+      "url": "https://fullrefit-cinematic.vercel.app",
+      "status": "ACTIVE",
+      "productionStatus": "READY",
+      "framework": "vite",
+      "description": "full/REFIT \u2014 Fractional AI & automation partner for companies that have outgrown their startup systems. Systems built. Teams equipped.",
+      "repo": ""
+    }
+  ]
+}
